@@ -3,5 +3,17 @@
 }
 
 @media screen and (min-width: 992px) {
+
+    .container-nav{
+        width: 920px;
+        margin: 0 auto;
+    }
+    
+
+
+    .container-lg{
+        width: 920px;
+        margin: 0 auto;
+    }
     
 }
