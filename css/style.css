@@ -56,9 +56,16 @@ button {
 .row {
     display: flex;
     flex-wrap: wrap;
+
 }
 
-.col{
+.row>* {
+    padding: 1rem 1rem;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+
+.col {
     flex-basis: 100%;
 }
 
@@ -66,7 +73,7 @@ button {
     flex-basis: 50%;
 }
 
-.p-xy{
+.p-xy {
     padding: 1.5rem;
 }
 
@@ -75,6 +82,6 @@ button {
     padding: 1.5rem;
 }
 
-.card-first{
+.card-first {
     background-color: var(--color-primary-light);
 }
