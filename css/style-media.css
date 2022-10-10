@@ -52,4 +52,8 @@
         flex-basis: 25%;
     }
 
+    .p-lg-x{
+        padding: 0 4rem;
+    }
+
 }

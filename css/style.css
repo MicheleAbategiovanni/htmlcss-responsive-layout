@@ -8,9 +8,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
-    /* Altezza Statica da Eliminare ! */
-    min-height: 40px;
 }
 
 img {
@@ -53,6 +50,10 @@ button {
     color: white;
 }
 
+.text-center{
+    text-align: center;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -84,4 +85,12 @@ button {
 
 .card-first {
     background-color: var(--color-primary-light);
+}
+
+.bg-violet{
+    background-color: var(--color-secondary);
+}
+
+.bg-card-white{
+    background-color: white;
 }
