@@ -1,14 +1,14 @@
 @media screen and (min-width: 768px) {
 
-    .col-md-1_4{
+    .col-md-1_4 {
         flex-basis: 25%;
     }
 
-    .col-md-3_4{
+    .col-md-3_4 {
         flex-basis: 75%;
     }
 
-    .col-md-4_4{
+    .col-md-4_4 {
         flex-basis: 25%;
     }
 }
@@ -36,23 +36,23 @@
         margin: 0 auto;
     }
 
-    .col-lg-1_2{
+    .col-lg-1_2 {
         flex-basis: 50%;
     }
 
-    .col-lg-1_4{
+    .col-lg-1_4 {
         flex-basis: 25%;
     }
 
-    .col-lg-3_4{
+    .col-lg-3_4 {
         flex-basis: 75%;
     }
 
-    .col-lg-4_4{
+    .col-lg-4_4 {
         flex-basis: 25%;
     }
 
-    .p-lg-x{
+    .p-lg-x {
         padding: 0 4rem;
     }
 
