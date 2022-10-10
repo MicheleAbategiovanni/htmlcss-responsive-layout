@@ -32,6 +32,14 @@ nav{
     color: white;
 }
 
+.nav-hamburger{
+    visibility: visible;
+}
+
+.nav-menu ul{
+    display: none;
+}
+
 .row{
     display: flex;
     flex-wrap: wrap;

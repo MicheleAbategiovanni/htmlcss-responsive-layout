@@ -8,8 +8,14 @@
         width: 920px;
         margin: 0 auto;
     }
-    
 
+    .nav-menu ul{
+        display: inline-block;
+    }
+
+    .hamburger-icon{
+        display: none;
+    }
 
     .container-lg{
         width: 920px;
