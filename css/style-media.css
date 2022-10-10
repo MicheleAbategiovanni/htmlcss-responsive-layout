@@ -1,25 +1,26 @@
-@media screen and (min-width: 768px) {
-    
-}
+@media screen and (min-width: 768px) {}
 
 @media screen and (min-width: 992px) {
 
-    .container-nav{
+    .container-nav {
         width: 920px;
         margin: 0 auto;
     }
 
-    .nav-menu ul{
-        display: inline-block;
+    .nav-menu ul {
+        display: flex;
+        align-items: baseline;
+        gap: 10px;
+
     }
 
-    .hamburger-icon{
+    .hamburger-icon {
         display: none;
     }
 
-    .container-lg{
+    .container-lg {
         width: 920px;
         margin: 0 auto;
     }
-    
+
 }
