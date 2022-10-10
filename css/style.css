@@ -1,0 +1,14 @@
+:root{
+    --color-primary: #0184FD;
+    --color-primary-light: #B5DDFF;
+    --color-secondary: #9792E4;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /* Altezza Statica da Eliminare ! */
+    min-height: 70px;
+}
