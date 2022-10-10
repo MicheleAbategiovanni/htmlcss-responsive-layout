@@ -25,6 +25,10 @@ button {
     border: 0px;
 }
 
+footer{
+    background-color: rgb(51, 51, 51);
+}
+
 .container-nav {
     display: flex;
     justify-content: space-between;
