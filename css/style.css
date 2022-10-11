@@ -4,6 +4,10 @@
     --color-secondary: #9792E4;
 }
 
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -118,6 +122,10 @@ footer {
 
 .text-center {
     text-align: center;
+}
+
+.text-violet{
+    color: var(--color-secondary);
 }
 
 /* CLASSI MODIFIHE BUTTON */
