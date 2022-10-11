@@ -15,7 +15,7 @@
         flex-basis: 25%;
     }
 
-    .text-left{
+    .text-left {
         text-align: left;
     }
 }
@@ -67,7 +67,12 @@
         padding: 0 4rem;
     }
 
-    .img-relative{
-        top: 80px;
+    .img-relative {
+        top: 127px;
     }
+
+    .m-top {
+        margin-top: 200px;
+    }
+
 }

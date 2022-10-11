@@ -32,6 +32,18 @@ footer {
     background-color: rgb(51, 51, 51);
 }
 
+p{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+h3{
+    padding-top: 1rem;
+}
+
+section{
+    padding: 2rem 0;
+}
 
 .container-nav {
     display: flex;
@@ -76,6 +88,10 @@ footer {
 
 .p-xy {
     padding: 1.5rem;
+}
+
+.p-bottom{
+    padding-bottom: 1rem;
 }
 
 .card {
