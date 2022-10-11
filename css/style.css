@@ -83,9 +83,20 @@ footer {
     padding: 1.5rem;
 }
 
+/* CLASSI IMG  */
 .img-relative {
     position: relative;
     top: 40px;
+}
+
+.img-planning{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.img-development{
+    width: 50%;
+    margin: 0 auto;
 }
 
 /* CLASSI COLORE BACKGROUND */
@@ -134,10 +145,20 @@ footer {
     width: 170px;
 }
 
+/* CLASSI PER FONT */
 .font-sz-icon{
     font-size: 80px;
+}
+
+.font-small{
+    font-size: 0.8rem;
+}
+
+.italic{
+    font-style: italic;
 }
 
 .col-height{
     height: 100%;
 }
+
