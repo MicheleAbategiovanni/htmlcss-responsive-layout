@@ -15,7 +15,6 @@ html{
 }
 
 img {
-    width: 100%;
     display: block;
 }
 
@@ -84,6 +83,10 @@ footer {
 }
 
 /* CLASSI IMG  */
+.img-100{
+    width: 100%;
+}
+
 .img-relative {
     position: relative;
     top: 40px;
@@ -95,7 +98,15 @@ footer {
 }
 
 .img-development{
-    width: 50%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.img-testimonials{
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    width: 70%;
+    object-fit: cover;
     margin: 0 auto;
 }
 
