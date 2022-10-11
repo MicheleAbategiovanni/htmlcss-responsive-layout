@@ -33,7 +33,6 @@ footer {
 }
 
 
-
 .container-nav {
     display: flex;
     justify-content: space-between;
@@ -95,12 +94,12 @@ footer {
 }
 
 .img-planning {
-    width: 70%;
+    width: 250px;
     margin: 0 auto;
 }
 
 .img-development {
-    width: 50%;
+    width: 200px;
     margin: 0 auto;
 }
 
@@ -188,6 +187,10 @@ footer {
 
 .font-small {
     font-size: 0.8rem;
+}
+
+.font-free{
+    font-size: 4rem;
 }
 
 .italic {
