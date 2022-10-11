@@ -129,3 +129,7 @@ footer {
 .font-sz-icon{
     font-size: 80px;
 }
+
+.col-height{
+    height: 100%;
+}
