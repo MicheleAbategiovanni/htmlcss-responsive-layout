@@ -159,6 +159,14 @@ footer {
     color: var(--color-secondary);
 }
 
+.text-orange{
+    color: #FDC15F;
+}
+
+.text-light{
+    color: #CBC9F1;
+}
+
 /* CLASSI MODIFIHE BUTTON */
 
 .btn-wth-lg {
