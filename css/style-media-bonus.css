@@ -1,4 +1,20 @@
+@media screen and (min-width: 560px){
+    
+    .col-sm-1_2 {
+        flex-basis: 50%;
+    }
+
+    .m-top {
+        margin-top: 200px;
+    }
+}
+
 @media screen and (min-width: 768px) {
+
+    .col-md-100{
+        flex-basis: 100%;
+    }
+
     .col-md-1_2 {
         flex-basis: 50%;
     }
